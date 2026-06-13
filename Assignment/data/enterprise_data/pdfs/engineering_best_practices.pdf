@@ -1,0 +1,33 @@
+Engineering Best Practices Guide
+
+This guide outlines coding standards and development practices for our engineering teams.
+
+Chapter 1: Code Review
+All code must be reviewed by at least two engineers before merging. Reviews should focus on correctness, readability, and performance.
+
+Chapter 2: Testing
+Maintain at least 80% code coverage with unit and integration tests. End-to-end tests are required for critical user flows.
+
+Chapter 3: Documentation
+All public APIs must have comprehensive documentation. Internal code should include clear comments for complex logic.
+
+Chapter 4: Version Control
+Use Git with feature branches and meaningful commit messages. Follow conventional commits format for automated changelog generation.
+
+Chapter 5: CI/CD
+All code changes must pass continuous integration tests. Deployments are automated with blue-green deployment strategy.
+
+Chapter 6: Security
+Follow OWASP guidelines for secure coding practices. Security scanning is integrated into the CI/CD pipeline.
+
+Chapter 7: Performance
+Optimize for readability first, performance second. Use profiling tools to identify actual bottlenecks before optimizing.
+
+Chapter 8: Monitoring
+All production services must have proper monitoring and alerting. We use structured logging and distributed tracing.
+
+Chapter 9: Database Best Practices
+Use parameterized queries to prevent SQL injection. Index frequently queried columns. Monitor slow query logs.
+
+Chapter 10: API Design
+Follow REST principles for HTTP APIs. Use consistent naming conventions. Version all public APIs.

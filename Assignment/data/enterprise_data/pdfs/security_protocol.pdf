@@ -1,0 +1,33 @@
+Information Security Protocol - Confidential Document
+
+This document outlines security procedures for handling sensitive company data.
+
+Chapter 1: Data Classification
+All data is classified as Public, Internal, Confidential, or Restricted. Each classification has specific handling requirements.
+
+Chapter 2: Access Control
+Role-based access control is enforced across all systems. Users only have access to data necessary for their job function.
+
+Chapter 3: Password Policy
+Passwords must be at least 12 characters with special characters, numbers, and uppercase letters. Passwords must be changed every 90 days.
+
+Chapter 4: Incident Response
+All security incidents must be reported within 1 hour of detection. The security team will investigate and remediate immediately.
+
+Chapter 5: Data Encryption
+All confidential data must be encrypted at rest and in transit. We use AES-256 encryption for data storage and TLS 1.3 for network traffic.
+
+Chapter 6: Network Security
+VPN access is required for remote work. Multi-factor authentication is mandatory for all systems.
+
+Chapter 7: Audit Logging
+All system access is logged and monitored. Logs are retained for one year and reviewed regularly.
+
+Chapter 8: Compliance
+We comply with GDPR, HIPAA, and SOC 2 standards. Annual audits ensure continued compliance.
+
+Chapter 9: Security Training
+All employees must complete annual security awareness training. Training covers phishing, social engineering, and data protection.
+
+Chapter 10: Vendor Management
+Third-party vendors with access to company data must meet our security standards. Contracts include security requirements.

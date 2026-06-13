@@ -1,0 +1,1302 @@
+[
+  {
+    "log_id": "LOG0001",
+    "timestamp": "2026-05-27T20:28:49.441102",
+    "user": "bob",
+    "action": "login",
+    "resource": "resource_940",
+    "ip_address": "192.168.1.173",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_163b59f5",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0002",
+    "timestamp": "2026-06-11T16:28:49.441237",
+    "user": "eve",
+    "action": "data_export",
+    "resource": "resource_338",
+    "ip_address": "192.168.1.213",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_ece6add7",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0003",
+    "timestamp": "2026-05-18T01:28:49.441269",
+    "user": "bob",
+    "action": "file_access",
+    "resource": "resource_981",
+    "ip_address": "192.168.1.160",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_c1f8aacb",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0004",
+    "timestamp": "2026-06-04T15:28:49.441287",
+    "user": "alice",
+    "action": "data_export",
+    "resource": "resource_372",
+    "ip_address": "192.168.1.219",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_01a102f3",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0005",
+    "timestamp": "2026-06-03T16:28:49.441300",
+    "user": "eve",
+    "action": "system_update",
+    "resource": "resource_266",
+    "ip_address": "192.168.1.29",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_2322d300",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0006",
+    "timestamp": "2026-05-16T00:28:49.441312",
+    "user": "eve",
+    "action": "login",
+    "resource": "resource_693",
+    "ip_address": "192.168.1.110",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_aebabef2",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0007",
+    "timestamp": "2026-05-28T17:28:49.441327",
+    "user": "bob",
+    "action": "data_export",
+    "resource": "resource_413",
+    "ip_address": "192.168.1.228",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_89a49de6",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0008",
+    "timestamp": "2026-06-01T09:28:49.441341",
+    "user": "eve",
+    "action": "login",
+    "resource": "resource_345",
+    "ip_address": "192.168.1.32",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_3ff7ba4e",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0009",
+    "timestamp": "2026-05-23T18:28:49.441355",
+    "user": "frank",
+    "action": "file_access",
+    "resource": "resource_985",
+    "ip_address": "192.168.1.130",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_362f8cf3",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0010",
+    "timestamp": "2026-05-15T06:28:49.441368",
+    "user": "dave",
+    "action": "file_access",
+    "resource": "resource_344",
+    "ip_address": "192.168.1.236",
+    "status": "success",
+    "details": {
+      "session_id": "sess_668e64a6",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0011",
+    "timestamp": "2026-05-14T17:28:49.441381",
+    "user": "eve",
+    "action": "logout",
+    "resource": "resource_543",
+    "ip_address": "192.168.1.205",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_993a20cc",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0012",
+    "timestamp": "2026-05-19T18:28:49.441391",
+    "user": "bob",
+    "action": "data_export",
+    "resource": "resource_182",
+    "ip_address": "192.168.1.56",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_8e2726f8",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0013",
+    "timestamp": "2026-06-03T14:28:49.441403",
+    "user": "carol",
+    "action": "data_export",
+    "resource": "resource_191",
+    "ip_address": "192.168.1.222",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_8092fcfd",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0014",
+    "timestamp": "2026-05-17T11:28:49.441415",
+    "user": "bob",
+    "action": "data_export",
+    "resource": "resource_424",
+    "ip_address": "192.168.1.200",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_c865e60a",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0015",
+    "timestamp": "2026-06-12T02:28:49.441425",
+    "user": "frank",
+    "action": "system_update",
+    "resource": "resource_948",
+    "ip_address": "192.168.1.20",
+    "status": "success",
+    "details": {
+      "session_id": "sess_89e78897",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0016",
+    "timestamp": "2026-06-04T19:28:49.441434",
+    "user": "dave",
+    "action": "logout",
+    "resource": "resource_523",
+    "ip_address": "192.168.1.28",
+    "status": "success",
+    "details": {
+      "session_id": "sess_b74bae6a",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0017",
+    "timestamp": "2026-06-02T03:28:49.441442",
+    "user": "eve",
+    "action": "data_export",
+    "resource": "resource_990",
+    "ip_address": "192.168.1.92",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_835748b4",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0018",
+    "timestamp": "2026-05-21T03:28:49.441451",
+    "user": "carol",
+    "action": "data_export",
+    "resource": "resource_883",
+    "ip_address": "192.168.1.216",
+    "status": "success",
+    "details": {
+      "session_id": "sess_3063a9c3",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0019",
+    "timestamp": "2026-05-23T17:28:49.441459",
+    "user": "dave",
+    "action": "login",
+    "resource": "resource_986",
+    "ip_address": "192.168.1.181",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_f4d6ea1e",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0020",
+    "timestamp": "2026-05-15T11:28:49.441466",
+    "user": "bob",
+    "action": "data_export",
+    "resource": "resource_396",
+    "ip_address": "192.168.1.213",
+    "status": "success",
+    "details": {
+      "session_id": "sess_6da0bbf7",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0021",
+    "timestamp": "2026-05-19T03:28:49.441479",
+    "user": "alice",
+    "action": "logout",
+    "resource": "resource_990",
+    "ip_address": "192.168.1.249",
+    "status": "success",
+    "details": {
+      "session_id": "sess_aec4a33d",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0022",
+    "timestamp": "2026-06-02T04:28:49.441487",
+    "user": "eve",
+    "action": "file_access",
+    "resource": "resource_676",
+    "ip_address": "192.168.1.80",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_f2b16b89",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0023",
+    "timestamp": "2026-06-03T06:28:49.441495",
+    "user": "eve",
+    "action": "system_update",
+    "resource": "resource_658",
+    "ip_address": "192.168.1.18",
+    "status": "success",
+    "details": {
+      "session_id": "sess_7166cb71",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0024",
+    "timestamp": "2026-06-02T10:28:49.441504",
+    "user": "carol",
+    "action": "permission_change",
+    "resource": "resource_741",
+    "ip_address": "192.168.1.83",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_840dc3bc",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0025",
+    "timestamp": "2026-06-12T21:28:49.441511",
+    "user": "eve",
+    "action": "logout",
+    "resource": "resource_326",
+    "ip_address": "192.168.1.101",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_571c27a8",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0026",
+    "timestamp": "2026-05-21T09:28:49.441521",
+    "user": "eve",
+    "action": "login",
+    "resource": "resource_485",
+    "ip_address": "192.168.1.233",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_10ee3822",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0027",
+    "timestamp": "2026-05-24T13:28:49.441531",
+    "user": "bob",
+    "action": "login",
+    "resource": "resource_155",
+    "ip_address": "192.168.1.211",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_646f4380",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0028",
+    "timestamp": "2026-05-26T23:28:49.441540",
+    "user": "eve",
+    "action": "system_update",
+    "resource": "resource_869",
+    "ip_address": "192.168.1.125",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_d5db7312",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0029",
+    "timestamp": "2026-05-23T04:28:49.441548",
+    "user": "alice",
+    "action": "logout",
+    "resource": "resource_461",
+    "ip_address": "192.168.1.17",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_5b12ebb5",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0030",
+    "timestamp": "2026-06-10T19:28:49.441556",
+    "user": "bob",
+    "action": "data_export",
+    "resource": "resource_477",
+    "ip_address": "192.168.1.216",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_b91ea4a0",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0031",
+    "timestamp": "2026-06-06T10:28:49.441564",
+    "user": "dave",
+    "action": "permission_change",
+    "resource": "resource_730",
+    "ip_address": "192.168.1.186",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_c39566a1",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0032",
+    "timestamp": "2026-05-22T17:28:49.441572",
+    "user": "carol",
+    "action": "system_update",
+    "resource": "resource_882",
+    "ip_address": "192.168.1.108",
+    "status": "success",
+    "details": {
+      "session_id": "sess_1fcf257e",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0033",
+    "timestamp": "2026-06-03T17:28:49.441579",
+    "user": "bob",
+    "action": "system_update",
+    "resource": "resource_976",
+    "ip_address": "192.168.1.105",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_d7b9799c",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0034",
+    "timestamp": "2026-05-24T19:28:49.441588",
+    "user": "bob",
+    "action": "logout",
+    "resource": "resource_408",
+    "ip_address": "192.168.1.80",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_dce400bd",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0035",
+    "timestamp": "2026-06-05T23:28:49.441596",
+    "user": "eve",
+    "action": "login",
+    "resource": "resource_757",
+    "ip_address": "192.168.1.148",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_c3dad3c4",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0036",
+    "timestamp": "2026-05-30T09:28:49.441604",
+    "user": "frank",
+    "action": "system_update",
+    "resource": "resource_546",
+    "ip_address": "192.168.1.158",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_0160e467",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0037",
+    "timestamp": "2026-05-17T04:28:49.441612",
+    "user": "carol",
+    "action": "permission_change",
+    "resource": "resource_125",
+    "ip_address": "192.168.1.209",
+    "status": "success",
+    "details": {
+      "session_id": "sess_010f5000",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0038",
+    "timestamp": "2026-06-11T02:28:49.441619",
+    "user": "bob",
+    "action": "login",
+    "resource": "resource_213",
+    "ip_address": "192.168.1.200",
+    "status": "success",
+    "details": {
+      "session_id": "sess_33cf4e49",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0039",
+    "timestamp": "2026-06-03T00:28:49.441628",
+    "user": "frank",
+    "action": "file_access",
+    "resource": "resource_664",
+    "ip_address": "192.168.1.253",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_d870de48",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0040",
+    "timestamp": "2026-05-28T14:28:49.441636",
+    "user": "eve",
+    "action": "system_update",
+    "resource": "resource_266",
+    "ip_address": "192.168.1.35",
+    "status": "success",
+    "details": {
+      "session_id": "sess_d3f4fa29",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0041",
+    "timestamp": "2026-05-20T04:28:49.441644",
+    "user": "alice",
+    "action": "file_access",
+    "resource": "resource_170",
+    "ip_address": "192.168.1.146",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_1080ce3d",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0042",
+    "timestamp": "2026-05-19T04:28:49.441654",
+    "user": "alice",
+    "action": "permission_change",
+    "resource": "resource_567",
+    "ip_address": "192.168.1.244",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_5990053a",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0043",
+    "timestamp": "2026-05-16T14:28:49.441663",
+    "user": "dave",
+    "action": "data_export",
+    "resource": "resource_632",
+    "ip_address": "192.168.1.187",
+    "status": "success",
+    "details": {
+      "session_id": "sess_92e11c0b",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0044",
+    "timestamp": "2026-05-27T08:28:49.441671",
+    "user": "dave",
+    "action": "data_export",
+    "resource": "resource_275",
+    "ip_address": "192.168.1.252",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_fe9b00e5",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0045",
+    "timestamp": "2026-05-22T12:28:49.441680",
+    "user": "dave",
+    "action": "permission_change",
+    "resource": "resource_302",
+    "ip_address": "192.168.1.162",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_cdf63930",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0046",
+    "timestamp": "2026-05-19T09:28:49.441689",
+    "user": "carol",
+    "action": "file_access",
+    "resource": "resource_828",
+    "ip_address": "192.168.1.127",
+    "status": "success",
+    "details": {
+      "session_id": "sess_20cf30b9",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0047",
+    "timestamp": "2026-05-30T11:28:49.441698",
+    "user": "eve",
+    "action": "logout",
+    "resource": "resource_533",
+    "ip_address": "192.168.1.195",
+    "status": "success",
+    "details": {
+      "session_id": "sess_d21811f7",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0048",
+    "timestamp": "2026-05-20T10:28:49.441707",
+    "user": "frank",
+    "action": "logout",
+    "resource": "resource_563",
+    "ip_address": "192.168.1.33",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_897ea1ae",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0049",
+    "timestamp": "2026-06-06T03:28:49.441715",
+    "user": "bob",
+    "action": "logout",
+    "resource": "resource_258",
+    "ip_address": "192.168.1.93",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_de663d9d",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0050",
+    "timestamp": "2026-05-27T01:28:49.441725",
+    "user": "dave",
+    "action": "permission_change",
+    "resource": "resource_422",
+    "ip_address": "192.168.1.141",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_3777d04d",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0051",
+    "timestamp": "2026-06-10T17:28:49.441733",
+    "user": "frank",
+    "action": "permission_change",
+    "resource": "resource_531",
+    "ip_address": "192.168.1.93",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_b9290dd3",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0052",
+    "timestamp": "2026-05-16T04:28:49.441741",
+    "user": "bob",
+    "action": "logout",
+    "resource": "resource_473",
+    "ip_address": "192.168.1.223",
+    "status": "success",
+    "details": {
+      "session_id": "sess_d0578e90",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0053",
+    "timestamp": "2026-06-06T06:28:49.441749",
+    "user": "frank",
+    "action": "login",
+    "resource": "resource_396",
+    "ip_address": "192.168.1.97",
+    "status": "success",
+    "details": {
+      "session_id": "sess_491abd14",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0054",
+    "timestamp": "2026-05-28T15:28:49.441759",
+    "user": "bob",
+    "action": "file_access",
+    "resource": "resource_312",
+    "ip_address": "192.168.1.184",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_cd8614a7",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0055",
+    "timestamp": "2026-05-27T11:28:49.441767",
+    "user": "carol",
+    "action": "login",
+    "resource": "resource_290",
+    "ip_address": "192.168.1.230",
+    "status": "success",
+    "details": {
+      "session_id": "sess_2cf271d5",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0056",
+    "timestamp": "2026-05-14T22:28:49.441774",
+    "user": "alice",
+    "action": "permission_change",
+    "resource": "resource_180",
+    "ip_address": "192.168.1.2",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_66da2ef4",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0057",
+    "timestamp": "2026-05-28T22:28:49.441783",
+    "user": "alice",
+    "action": "permission_change",
+    "resource": "resource_221",
+    "ip_address": "192.168.1.38",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_784a7d3e",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0058",
+    "timestamp": "2026-06-10T03:28:49.441791",
+    "user": "carol",
+    "action": "file_access",
+    "resource": "resource_979",
+    "ip_address": "192.168.1.201",
+    "status": "success",
+    "details": {
+      "session_id": "sess_729582ec",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0059",
+    "timestamp": "2026-06-08T21:28:49.441801",
+    "user": "alice",
+    "action": "login",
+    "resource": "resource_819",
+    "ip_address": "192.168.1.196",
+    "status": "success",
+    "details": {
+      "session_id": "sess_cbbf2b87",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0060",
+    "timestamp": "2026-06-02T09:28:49.441809",
+    "user": "carol",
+    "action": "file_access",
+    "resource": "resource_485",
+    "ip_address": "192.168.1.154",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_fcb9618d",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0061",
+    "timestamp": "2026-05-27T13:28:49.441821",
+    "user": "carol",
+    "action": "logout",
+    "resource": "resource_680",
+    "ip_address": "192.168.1.135",
+    "status": "success",
+    "details": {
+      "session_id": "sess_9b2ddc43",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0062",
+    "timestamp": "2026-05-28T04:28:49.441829",
+    "user": "bob",
+    "action": "file_access",
+    "resource": "resource_482",
+    "ip_address": "192.168.1.162",
+    "status": "success",
+    "details": {
+      "session_id": "sess_ff23d684",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0063",
+    "timestamp": "2026-05-27T18:28:49.441837",
+    "user": "carol",
+    "action": "permission_change",
+    "resource": "resource_870",
+    "ip_address": "192.168.1.237",
+    "status": "success",
+    "details": {
+      "session_id": "sess_08147bac",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0064",
+    "timestamp": "2026-06-06T07:28:49.441845",
+    "user": "eve",
+    "action": "login",
+    "resource": "resource_644",
+    "ip_address": "192.168.1.83",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_7799773c",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0065",
+    "timestamp": "2026-06-01T01:28:49.441853",
+    "user": "carol",
+    "action": "file_access",
+    "resource": "resource_979",
+    "ip_address": "192.168.1.80",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_ff95e08f",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0066",
+    "timestamp": "2026-05-21T10:28:49.441864",
+    "user": "bob",
+    "action": "system_update",
+    "resource": "resource_911",
+    "ip_address": "192.168.1.220",
+    "status": "success",
+    "details": {
+      "session_id": "sess_4678b07a",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0067",
+    "timestamp": "2026-05-21T00:28:49.441873",
+    "user": "carol",
+    "action": "system_update",
+    "resource": "resource_808",
+    "ip_address": "192.168.1.50",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_d2345016",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0068",
+    "timestamp": "2026-05-23T21:28:49.441880",
+    "user": "frank",
+    "action": "data_export",
+    "resource": "resource_583",
+    "ip_address": "192.168.1.102",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_7cc8d4fb",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0069",
+    "timestamp": "2026-05-24T01:28:49.441888",
+    "user": "bob",
+    "action": "permission_change",
+    "resource": "resource_822",
+    "ip_address": "192.168.1.187",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_e7c9d4e4",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0070",
+    "timestamp": "2026-06-07T04:28:49.441896",
+    "user": "carol",
+    "action": "login",
+    "resource": "resource_843",
+    "ip_address": "192.168.1.35",
+    "status": "success",
+    "details": {
+      "session_id": "sess_2f490128",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0071",
+    "timestamp": "2026-05-15T19:28:49.441904",
+    "user": "carol",
+    "action": "file_access",
+    "resource": "resource_745",
+    "ip_address": "192.168.1.130",
+    "status": "success",
+    "details": {
+      "session_id": "sess_b3195a52",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0072",
+    "timestamp": "2026-05-29T11:28:49.441911",
+    "user": "dave",
+    "action": "data_export",
+    "resource": "resource_735",
+    "ip_address": "192.168.1.128",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_e39c6bb7",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0073",
+    "timestamp": "2026-05-25T14:28:49.441920",
+    "user": "eve",
+    "action": "data_export",
+    "resource": "resource_429",
+    "ip_address": "192.168.1.2",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_e1437009",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0074",
+    "timestamp": "2026-05-29T05:28:49.441928",
+    "user": "eve",
+    "action": "login",
+    "resource": "resource_644",
+    "ip_address": "192.168.1.137",
+    "status": "success",
+    "details": {
+      "session_id": "sess_8bc9d341",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0075",
+    "timestamp": "2026-05-20T16:28:49.441937",
+    "user": "carol",
+    "action": "logout",
+    "resource": "resource_313",
+    "ip_address": "192.168.1.236",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_cde71f52",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0076",
+    "timestamp": "2026-05-28T02:28:49.441945",
+    "user": "carol",
+    "action": "data_export",
+    "resource": "resource_815",
+    "ip_address": "192.168.1.74",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_144a5296",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0077",
+    "timestamp": "2026-06-07T05:28:49.441979",
+    "user": "eve",
+    "action": "system_update",
+    "resource": "resource_628",
+    "ip_address": "192.168.1.8",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_2d719917",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0078",
+    "timestamp": "2026-05-29T10:28:49.441991",
+    "user": "alice",
+    "action": "login",
+    "resource": "resource_349",
+    "ip_address": "192.168.1.110",
+    "status": "success",
+    "details": {
+      "session_id": "sess_43d5d68a",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0079",
+    "timestamp": "2026-06-07T16:28:49.441999",
+    "user": "alice",
+    "action": "logout",
+    "resource": "resource_431",
+    "ip_address": "192.168.1.15",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_72bb82a7",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0080",
+    "timestamp": "2026-05-22T17:28:49.442009",
+    "user": "dave",
+    "action": "permission_change",
+    "resource": "resource_863",
+    "ip_address": "192.168.1.53",
+    "status": "success",
+    "details": {
+      "session_id": "sess_6c0c9476",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0081",
+    "timestamp": "2026-05-20T09:28:49.442017",
+    "user": "carol",
+    "action": "data_export",
+    "resource": "resource_530",
+    "ip_address": "192.168.1.164",
+    "status": "success",
+    "details": {
+      "session_id": "sess_6f98c3d7",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0082",
+    "timestamp": "2026-06-10T17:28:49.442025",
+    "user": "alice",
+    "action": "system_update",
+    "resource": "resource_110",
+    "ip_address": "192.168.1.194",
+    "status": "success",
+    "details": {
+      "session_id": "sess_07e13c88",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0083",
+    "timestamp": "2026-05-20T07:28:49.442033",
+    "user": "alice",
+    "action": "logout",
+    "resource": "resource_426",
+    "ip_address": "192.168.1.194",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_429e5457",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0084",
+    "timestamp": "2026-05-15T05:28:49.442041",
+    "user": "alice",
+    "action": "logout",
+    "resource": "resource_472",
+    "ip_address": "192.168.1.57",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_662f6a5d",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0085",
+    "timestamp": "2026-05-31T20:28:49.442048",
+    "user": "dave",
+    "action": "system_update",
+    "resource": "resource_768",
+    "ip_address": "192.168.1.131",
+    "status": "success",
+    "details": {
+      "session_id": "sess_d2792b93",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0086",
+    "timestamp": "2026-05-30T23:28:49.442057",
+    "user": "eve",
+    "action": "login",
+    "resource": "resource_346",
+    "ip_address": "192.168.1.252",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_2a72bc5e",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0087",
+    "timestamp": "2026-06-11T00:28:49.442065",
+    "user": "frank",
+    "action": "data_export",
+    "resource": "resource_699",
+    "ip_address": "192.168.1.210",
+    "status": "success",
+    "details": {
+      "session_id": "sess_71cf6f71",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0088",
+    "timestamp": "2026-06-01T10:28:49.442072",
+    "user": "frank",
+    "action": "data_export",
+    "resource": "resource_709",
+    "ip_address": "192.168.1.41",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_4b4b5ff8",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0089",
+    "timestamp": "2026-05-22T19:28:49.442083",
+    "user": "carol",
+    "action": "file_access",
+    "resource": "resource_420",
+    "ip_address": "192.168.1.69",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_47c07c60",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0090",
+    "timestamp": "2026-05-17T14:28:49.442092",
+    "user": "frank",
+    "action": "permission_change",
+    "resource": "resource_571",
+    "ip_address": "192.168.1.160",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_c37a27c5",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0091",
+    "timestamp": "2026-06-09T01:28:49.442099",
+    "user": "carol",
+    "action": "login",
+    "resource": "resource_646",
+    "ip_address": "192.168.1.152",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_3815256a",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0092",
+    "timestamp": "2026-05-15T00:28:49.442107",
+    "user": "eve",
+    "action": "system_update",
+    "resource": "resource_418",
+    "ip_address": "192.168.1.181",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_97351221",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0093",
+    "timestamp": "2026-05-20T22:28:49.442115",
+    "user": "eve",
+    "action": "system_update",
+    "resource": "resource_145",
+    "ip_address": "192.168.1.125",
+    "status": "failed",
+    "details": {
+      "session_id": "sess_cb86c20a",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0094",
+    "timestamp": "2026-06-05T18:28:49.442125",
+    "user": "frank",
+    "action": "data_export",
+    "resource": "resource_369",
+    "ip_address": "192.168.1.87",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_69e3a14d",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0095",
+    "timestamp": "2026-05-15T00:28:49.442133",
+    "user": "dave",
+    "action": "logout",
+    "resource": "resource_667",
+    "ip_address": "192.168.1.226",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_7af74eff",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0096",
+    "timestamp": "2026-05-30T01:28:49.442140",
+    "user": "carol",
+    "action": "system_update",
+    "resource": "resource_287",
+    "ip_address": "192.168.1.35",
+    "status": "success",
+    "details": {
+      "session_id": "sess_699c5065",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0097",
+    "timestamp": "2026-05-16T04:28:49.442148",
+    "user": "dave",
+    "action": "system_update",
+    "resource": "resource_847",
+    "ip_address": "192.168.1.245",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_39710ab8",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0098",
+    "timestamp": "2026-05-14T21:28:49.442156",
+    "user": "bob",
+    "action": "system_update",
+    "resource": "resource_418",
+    "ip_address": "192.168.1.27",
+    "status": "warning",
+    "details": {
+      "session_id": "sess_602e924f",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0099",
+    "timestamp": "2026-06-11T19:28:49.442164",
+    "user": "carol",
+    "action": "system_update",
+    "resource": "resource_437",
+    "ip_address": "192.168.1.9",
+    "status": "success",
+    "details": {
+      "session_id": "sess_9994e5f5",
+      "user_agent": "Mozilla/5.0"
+    }
+  },
+  {
+    "log_id": "LOG0100",
+    "timestamp": "2026-06-09T17:28:49.442172",
+    "user": "carol",
+    "action": "login",
+    "resource": "resource_648",
+    "ip_address": "192.168.1.35",
+    "status": "success",
+    "details": {
+      "session_id": "sess_36f77ddb",
+      "user_agent": "Mozilla/5.0"
+    }
+  }
+]

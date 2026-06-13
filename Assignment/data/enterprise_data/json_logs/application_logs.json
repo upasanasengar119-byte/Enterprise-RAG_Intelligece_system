@@ -1,0 +1,752 @@
+[
+  {
+    "log_id": "APP0001",
+    "timestamp": "2026-06-11T08:18:49.464166",
+    "level": "WARN",
+    "logger": "auth.service",
+    "message": "Request processed successfully",
+    "duration_ms": 185,
+    "request_id": "req_5439c70f3b32",
+    "user_id": "dave"
+  },
+  {
+    "log_id": "APP0002",
+    "timestamp": "2026-06-06T18:58:49.464323",
+    "level": "ERROR",
+    "logger": "cache.manager",
+    "message": "User authentication completed",
+    "duration_ms": 85,
+    "request_id": "req_a94cff914e4b",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0003",
+    "timestamp": "2026-06-07T14:58:49.464353",
+    "level": "DEBUG",
+    "logger": "cache.manager",
+    "message": "Database query executed",
+    "duration_ms": 36,
+    "request_id": "req_ee93a53bd07f",
+    "user_id": "bob"
+  },
+  {
+    "log_id": "APP0004",
+    "timestamp": "2026-06-09T22:10:49.464403",
+    "level": "WARN",
+    "logger": "db.connection",
+    "message": "Database query executed",
+    "duration_ms": 244,
+    "request_id": "req_76f15233cafb",
+    "user_id": "dave"
+  },
+  {
+    "log_id": "APP0005",
+    "timestamp": "2026-06-13T02:06:49.464417",
+    "level": "ERROR",
+    "logger": "db.connection",
+    "message": "Request processed successfully",
+    "duration_ms": 276,
+    "request_id": "req_8eec96b29a3f",
+    "user_id": "alice"
+  },
+  {
+    "log_id": "APP0006",
+    "timestamp": "2026-06-12T21:14:49.464430",
+    "level": "INFO",
+    "logger": "db.connection",
+    "message": "Failed to connect to external service",
+    "duration_ms": 500,
+    "request_id": "req_9460450c62fa",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0007",
+    "timestamp": "2026-06-10T17:36:49.464488",
+    "level": "WARN",
+    "logger": "cache.manager",
+    "message": "Request processed successfully",
+    "duration_ms": 157,
+    "request_id": "req_20f4f873fa90",
+    "user_id": "dave"
+  },
+  {
+    "log_id": "APP0008",
+    "timestamp": "2026-06-10T22:55:49.464511",
+    "level": "WARN",
+    "logger": "auth.service",
+    "message": "Failed to connect to external service",
+    "duration_ms": 174,
+    "request_id": "req_d84c4250bb4e",
+    "user_id": "bob"
+  },
+  {
+    "log_id": "APP0009",
+    "timestamp": "2026-06-12T22:41:49.464524",
+    "level": "WARN",
+    "logger": "cache.manager",
+    "message": "Database query executed",
+    "duration_ms": 469,
+    "request_id": "req_02af4fcea496",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0010",
+    "timestamp": "2026-06-07T16:24:49.464536",
+    "level": "DEBUG",
+    "logger": "db.connection",
+    "message": "Failed to connect to external service",
+    "duration_ms": 128,
+    "request_id": "req_0ed3b0798fe0",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0011",
+    "timestamp": "2026-06-07T15:59:49.464548",
+    "level": "WARN",
+    "logger": "cache.manager",
+    "message": "Failed to connect to external service",
+    "duration_ms": 62,
+    "request_id": "req_c12248f671af",
+    "user_id": "bob"
+  },
+  {
+    "log_id": "APP0012",
+    "timestamp": "2026-06-11T06:41:49.464560",
+    "level": "DEBUG",
+    "logger": "db.connection",
+    "message": "Failed to connect to external service",
+    "duration_ms": 350,
+    "request_id": "req_55aa02bda050",
+    "user_id": "carol"
+  },
+  {
+    "log_id": "APP0013",
+    "timestamp": "2026-06-10T16:41:49.464572",
+    "level": "WARN",
+    "logger": "cache.manager",
+    "message": "User authentication completed",
+    "duration_ms": 248,
+    "request_id": "req_096ba0dbbe42",
+    "user_id": "frank"
+  },
+  {
+    "log_id": "APP0014",
+    "timestamp": "2026-06-09T04:54:49.464588",
+    "level": "INFO",
+    "logger": "db.connection",
+    "message": "Cache miss occurred",
+    "duration_ms": 256,
+    "request_id": "req_74d3ebd53530",
+    "user_id": "dave"
+  },
+  {
+    "log_id": "APP0015",
+    "timestamp": "2026-06-07T14:25:49.464601",
+    "level": "ERROR",
+    "logger": "api.handler",
+    "message": "User authentication completed",
+    "duration_ms": 425,
+    "request_id": "req_f5f0e2ba3f68",
+    "user_id": "carol"
+  },
+  {
+    "log_id": "APP0016",
+    "timestamp": "2026-06-07T11:13:49.464613",
+    "level": "WARN",
+    "logger": "db.connection",
+    "message": "Cache miss occurred",
+    "duration_ms": 3,
+    "request_id": "req_53b60d944c15",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0017",
+    "timestamp": "2026-06-08T06:10:49.464625",
+    "level": "INFO",
+    "logger": "auth.service",
+    "message": "Database query executed",
+    "duration_ms": 55,
+    "request_id": "req_691cf8c1dd22",
+    "user_id": "bob"
+  },
+  {
+    "log_id": "APP0018",
+    "timestamp": "2026-06-09T16:41:49.464638",
+    "level": "ERROR",
+    "logger": "db.connection",
+    "message": "Cache miss occurred",
+    "duration_ms": 7,
+    "request_id": "req_a60e1209ae97",
+    "user_id": "alice"
+  },
+  {
+    "log_id": "APP0019",
+    "timestamp": "2026-06-07T19:41:49.464650",
+    "level": "INFO",
+    "logger": "auth.service",
+    "message": "User authentication completed",
+    "duration_ms": 283,
+    "request_id": "req_be72f4adb5bd",
+    "user_id": "eve"
+  },
+  {
+    "log_id": "APP0020",
+    "timestamp": "2026-06-12T09:33:49.464663",
+    "level": "ERROR",
+    "logger": "cache.manager",
+    "message": "User authentication completed",
+    "duration_ms": 244,
+    "request_id": "req_e20fc7bc32ce",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0021",
+    "timestamp": "2026-06-12T22:44:49.464674",
+    "level": "WARN",
+    "logger": "auth.service",
+    "message": "User authentication completed",
+    "duration_ms": 383,
+    "request_id": "req_4af943d2c283",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0022",
+    "timestamp": "2026-06-11T05:26:49.464689",
+    "level": "ERROR",
+    "logger": "auth.service",
+    "message": "Database query executed",
+    "duration_ms": 323,
+    "request_id": "req_4ab1a696a0d7",
+    "user_id": "bob"
+  },
+  {
+    "log_id": "APP0023",
+    "timestamp": "2026-06-10T15:47:49.464701",
+    "level": "WARN",
+    "logger": "auth.service",
+    "message": "Failed to connect to external service",
+    "duration_ms": 128,
+    "request_id": "req_b4753797b197",
+    "user_id": "alice"
+  },
+  {
+    "log_id": "APP0024",
+    "timestamp": "2026-06-06T19:03:49.464712",
+    "level": "WARN",
+    "logger": "api.handler",
+    "message": "Cache miss occurred",
+    "duration_ms": 319,
+    "request_id": "req_3ae154e0772f",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0025",
+    "timestamp": "2026-06-12T16:16:49.464724",
+    "level": "DEBUG",
+    "logger": "auth.service",
+    "message": "Database query executed",
+    "duration_ms": 299,
+    "request_id": "req_b367b5309615",
+    "user_id": "frank"
+  },
+  {
+    "log_id": "APP0026",
+    "timestamp": "2026-06-13T12:52:49.464737",
+    "level": "DEBUG",
+    "logger": "cache.manager",
+    "message": "Request processed successfully",
+    "duration_ms": 256,
+    "request_id": "req_2cd625f09250",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0027",
+    "timestamp": "2026-06-08T23:57:49.464749",
+    "level": "INFO",
+    "logger": "api.handler",
+    "message": "Database query executed",
+    "duration_ms": 224,
+    "request_id": "req_111016958bb7",
+    "user_id": "dave"
+  },
+  {
+    "log_id": "APP0028",
+    "timestamp": "2026-06-11T02:07:49.464760",
+    "level": "DEBUG",
+    "logger": "auth.service",
+    "message": "User authentication completed",
+    "duration_ms": 129,
+    "request_id": "req_1503982edad1",
+    "user_id": "alice"
+  },
+  {
+    "log_id": "APP0029",
+    "timestamp": "2026-06-10T22:39:49.464837",
+    "level": "WARN",
+    "logger": "auth.service",
+    "message": "Request processed successfully",
+    "duration_ms": 305,
+    "request_id": "req_8ba255ac764a",
+    "user_id": "bob"
+  },
+  {
+    "log_id": "APP0030",
+    "timestamp": "2026-06-07T07:22:49.464845",
+    "level": "ERROR",
+    "logger": "auth.service",
+    "message": "User authentication completed",
+    "duration_ms": 482,
+    "request_id": "req_017454ec96ab",
+    "user_id": "bob"
+  },
+  {
+    "log_id": "APP0031",
+    "timestamp": "2026-06-06T20:11:49.464853",
+    "level": "DEBUG",
+    "logger": "db.connection",
+    "message": "Failed to connect to external service",
+    "duration_ms": 191,
+    "request_id": "req_32be18f6097b",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0032",
+    "timestamp": "2026-06-12T22:56:49.464861",
+    "level": "DEBUG",
+    "logger": "cache.manager",
+    "message": "User authentication completed",
+    "duration_ms": 236,
+    "request_id": "req_14b5e7610de8",
+    "user_id": "eve"
+  },
+  {
+    "log_id": "APP0033",
+    "timestamp": "2026-06-07T14:45:49.464870",
+    "level": "INFO",
+    "logger": "auth.service",
+    "message": "Request processed successfully",
+    "duration_ms": 229,
+    "request_id": "req_3b888db2f6d2",
+    "user_id": "carol"
+  },
+  {
+    "log_id": "APP0034",
+    "timestamp": "2026-06-08T22:27:49.464879",
+    "level": "WARN",
+    "logger": "auth.service",
+    "message": "Cache miss occurred",
+    "duration_ms": 434,
+    "request_id": "req_a21fc11576be",
+    "user_id": "dave"
+  },
+  {
+    "log_id": "APP0035",
+    "timestamp": "2026-06-13T10:20:49.465035",
+    "level": "INFO",
+    "logger": "auth.service",
+    "message": "Failed to connect to external service",
+    "duration_ms": 417,
+    "request_id": "req_d3afabcf7116",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0036",
+    "timestamp": "2026-06-06T17:50:49.465125",
+    "level": "DEBUG",
+    "logger": "auth.service",
+    "message": "Failed to connect to external service",
+    "duration_ms": 123,
+    "request_id": "req_e96b05d6b5f4",
+    "user_id": "frank"
+  },
+  {
+    "log_id": "APP0037",
+    "timestamp": "2026-06-08T00:59:49.465144",
+    "level": "DEBUG",
+    "logger": "db.connection",
+    "message": "User authentication completed",
+    "duration_ms": 216,
+    "request_id": "req_6ab4e37bd705",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0038",
+    "timestamp": "2026-06-07T14:28:49.465159",
+    "level": "ERROR",
+    "logger": "api.handler",
+    "message": "Cache miss occurred",
+    "duration_ms": 109,
+    "request_id": "req_871d78bc0b13",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0039",
+    "timestamp": "2026-06-08T22:21:49.465172",
+    "level": "ERROR",
+    "logger": "api.handler",
+    "message": "Cache miss occurred",
+    "duration_ms": 305,
+    "request_id": "req_af177e035f3f",
+    "user_id": "dave"
+  },
+  {
+    "log_id": "APP0040",
+    "timestamp": "2026-06-10T23:55:49.465185",
+    "level": "INFO",
+    "logger": "db.connection",
+    "message": "Failed to connect to external service",
+    "duration_ms": 51,
+    "request_id": "req_aa12b41b290c",
+    "user_id": "eve"
+  },
+  {
+    "log_id": "APP0041",
+    "timestamp": "2026-06-08T00:34:49.465197",
+    "level": "WARN",
+    "logger": "cache.manager",
+    "message": "Cache miss occurred",
+    "duration_ms": 90,
+    "request_id": "req_f08a9280efb6",
+    "user_id": "bob"
+  },
+  {
+    "log_id": "APP0042",
+    "timestamp": "2026-06-13T01:08:49.465209",
+    "level": "WARN",
+    "logger": "auth.service",
+    "message": "Request processed successfully",
+    "duration_ms": 392,
+    "request_id": "req_a03410440de7",
+    "user_id": "dave"
+  },
+  {
+    "log_id": "APP0043",
+    "timestamp": "2026-06-07T01:52:49.465220",
+    "level": "ERROR",
+    "logger": "auth.service",
+    "message": "Request processed successfully",
+    "duration_ms": 1,
+    "request_id": "req_61b409d0f15e",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0044",
+    "timestamp": "2026-06-07T20:46:49.465232",
+    "level": "WARN",
+    "logger": "cache.manager",
+    "message": "Request processed successfully",
+    "duration_ms": 214,
+    "request_id": "req_f71c932a49f9",
+    "user_id": "alice"
+  },
+  {
+    "log_id": "APP0045",
+    "timestamp": "2026-06-08T16:28:49.465242",
+    "level": "DEBUG",
+    "logger": "cache.manager",
+    "message": "Failed to connect to external service",
+    "duration_ms": 132,
+    "request_id": "req_9f3486a8f03f",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0046",
+    "timestamp": "2026-06-08T21:49:49.465254",
+    "level": "INFO",
+    "logger": "api.handler",
+    "message": "Request processed successfully",
+    "duration_ms": 151,
+    "request_id": "req_62dd777479fe",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0047",
+    "timestamp": "2026-06-12T19:49:49.465262",
+    "level": "ERROR",
+    "logger": "db.connection",
+    "message": "Failed to connect to external service",
+    "duration_ms": 490,
+    "request_id": "req_c4bf4514b721",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0048",
+    "timestamp": "2026-06-09T20:37:49.465271",
+    "level": "WARN",
+    "logger": "auth.service",
+    "message": "Failed to connect to external service",
+    "duration_ms": 52,
+    "request_id": "req_822af49f7101",
+    "user_id": "eve"
+  },
+  {
+    "log_id": "APP0049",
+    "timestamp": "2026-06-09T10:21:49.465279",
+    "level": "INFO",
+    "logger": "api.handler",
+    "message": "Database query executed",
+    "duration_ms": 158,
+    "request_id": "req_2e37bd3cfbd8",
+    "user_id": "carol"
+  },
+  {
+    "log_id": "APP0050",
+    "timestamp": "2026-06-07T13:51:49.465293",
+    "level": "ERROR",
+    "logger": "cache.manager",
+    "message": "Cache miss occurred",
+    "duration_ms": 288,
+    "request_id": "req_9948348b4812",
+    "user_id": "carol"
+  },
+  {
+    "log_id": "APP0051",
+    "timestamp": "2026-06-09T16:34:49.465307",
+    "level": "ERROR",
+    "logger": "api.handler",
+    "message": "User authentication completed",
+    "duration_ms": 238,
+    "request_id": "req_b849f856d9d0",
+    "user_id": "frank"
+  },
+  {
+    "log_id": "APP0052",
+    "timestamp": "2026-06-12T13:56:49.465322",
+    "level": "INFO",
+    "logger": "cache.manager",
+    "message": "Request processed successfully",
+    "duration_ms": 42,
+    "request_id": "req_50aa288f7175",
+    "user_id": "dave"
+  },
+  {
+    "log_id": "APP0053",
+    "timestamp": "2026-06-08T02:46:49.465384",
+    "level": "INFO",
+    "logger": "cache.manager",
+    "message": "User authentication completed",
+    "duration_ms": 357,
+    "request_id": "req_4d563bb35b0d",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0054",
+    "timestamp": "2026-06-07T20:11:49.465404",
+    "level": "INFO",
+    "logger": "auth.service",
+    "message": "Cache miss occurred",
+    "duration_ms": 174,
+    "request_id": "req_814e46e57df6",
+    "user_id": "dave"
+  },
+  {
+    "log_id": "APP0055",
+    "timestamp": "2026-06-10T23:14:49.465415",
+    "level": "ERROR",
+    "logger": "auth.service",
+    "message": "Cache miss occurred",
+    "duration_ms": 436,
+    "request_id": "req_da130db51856",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0056",
+    "timestamp": "2026-06-09T10:58:49.465425",
+    "level": "ERROR",
+    "logger": "api.handler",
+    "message": "User authentication completed",
+    "duration_ms": 94,
+    "request_id": "req_c947716beb23",
+    "user_id": "dave"
+  },
+  {
+    "log_id": "APP0057",
+    "timestamp": "2026-06-09T02:33:49.465435",
+    "level": "DEBUG",
+    "logger": "api.handler",
+    "message": "User authentication completed",
+    "duration_ms": 165,
+    "request_id": "req_978ecc764d46",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0058",
+    "timestamp": "2026-06-12T15:12:49.465448",
+    "level": "INFO",
+    "logger": "auth.service",
+    "message": "Cache miss occurred",
+    "duration_ms": 201,
+    "request_id": "req_4de53bc2e2b4",
+    "user_id": "frank"
+  },
+  {
+    "log_id": "APP0059",
+    "timestamp": "2026-06-11T09:55:49.465462",
+    "level": "ERROR",
+    "logger": "auth.service",
+    "message": "Failed to connect to external service",
+    "duration_ms": 405,
+    "request_id": "req_71f4c5daf5f3",
+    "user_id": "frank"
+  },
+  {
+    "log_id": "APP0060",
+    "timestamp": "2026-06-08T13:00:49.465473",
+    "level": "DEBUG",
+    "logger": "cache.manager",
+    "message": "Request processed successfully",
+    "duration_ms": 69,
+    "request_id": "req_636b41662d24",
+    "user_id": "eve"
+  },
+  {
+    "log_id": "APP0061",
+    "timestamp": "2026-06-09T17:08:49.465490",
+    "level": "INFO",
+    "logger": "db.connection",
+    "message": "User authentication completed",
+    "duration_ms": 171,
+    "request_id": "req_fe25255b8b47",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0062",
+    "timestamp": "2026-06-10T19:03:49.465502",
+    "level": "WARN",
+    "logger": "db.connection",
+    "message": "Failed to connect to external service",
+    "duration_ms": 224,
+    "request_id": "req_82d6ebfcb73b",
+    "user_id": "alice"
+  },
+  {
+    "log_id": "APP0063",
+    "timestamp": "2026-06-09T07:35:49.465517",
+    "level": "DEBUG",
+    "logger": "api.handler",
+    "message": "User authentication completed",
+    "duration_ms": 96,
+    "request_id": "req_70438c65ee21",
+    "user_id": "dave"
+  },
+  {
+    "log_id": "APP0064",
+    "timestamp": "2026-06-08T16:14:49.465533",
+    "level": "DEBUG",
+    "logger": "cache.manager",
+    "message": "Failed to connect to external service",
+    "duration_ms": 33,
+    "request_id": "req_accfa8c2e832",
+    "user_id": "carol"
+  },
+  {
+    "log_id": "APP0065",
+    "timestamp": "2026-06-08T05:32:49.465547",
+    "level": "WARN",
+    "logger": "db.connection",
+    "message": "Database query executed",
+    "duration_ms": 307,
+    "request_id": "req_b27e8c2565e5",
+    "user_id": "carol"
+  },
+  {
+    "log_id": "APP0066",
+    "timestamp": "2026-06-07T15:42:49.465569",
+    "level": "ERROR",
+    "logger": "db.connection",
+    "message": "User authentication completed",
+    "duration_ms": 229,
+    "request_id": "req_d4fb511d06f5",
+    "user_id": "carol"
+  },
+  {
+    "log_id": "APP0067",
+    "timestamp": "2026-06-07T08:28:49.465594",
+    "level": "INFO",
+    "logger": "api.handler",
+    "message": "Request processed successfully",
+    "duration_ms": 425,
+    "request_id": "req_83cfce23ed3d",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0068",
+    "timestamp": "2026-06-11T21:57:49.465607",
+    "level": "DEBUG",
+    "logger": "auth.service",
+    "message": "Request processed successfully",
+    "duration_ms": 428,
+    "request_id": "req_5825c4bd2340",
+    "user_id": "carol"
+  },
+  {
+    "log_id": "APP0069",
+    "timestamp": "2026-06-07T12:05:49.465623",
+    "level": "ERROR",
+    "logger": "api.handler",
+    "message": "Cache miss occurred",
+    "duration_ms": 243,
+    "request_id": "req_06416f209be0",
+    "user_id": "bob"
+  },
+  {
+    "log_id": "APP0070",
+    "timestamp": "2026-06-08T13:48:49.465640",
+    "level": "ERROR",
+    "logger": "cache.manager",
+    "message": "Failed to connect to external service",
+    "duration_ms": 220,
+    "request_id": "req_b1e756271f96",
+    "user_id": "bob"
+  },
+  {
+    "log_id": "APP0071",
+    "timestamp": "2026-06-11T03:09:49.465653",
+    "level": "DEBUG",
+    "logger": "api.handler",
+    "message": "Request processed successfully",
+    "duration_ms": 469,
+    "request_id": "req_7a8e1c7a0152",
+    "user_id": "bob"
+  },
+  {
+    "log_id": "APP0072",
+    "timestamp": "2026-06-07T14:13:49.465665",
+    "level": "WARN",
+    "logger": "db.connection",
+    "message": "Database query executed",
+    "duration_ms": 454,
+    "request_id": "req_6fab562b6aa8",
+    "user_id": "alice"
+  },
+  {
+    "log_id": "APP0073",
+    "timestamp": "2026-06-07T18:40:49.465678",
+    "level": "DEBUG",
+    "logger": "cache.manager",
+    "message": "User authentication completed",
+    "duration_ms": 127,
+    "request_id": "req_f6e98936fc96",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0074",
+    "timestamp": "2026-06-08T23:12:49.465689",
+    "level": "ERROR",
+    "logger": "db.connection",
+    "message": "Database query executed",
+    "duration_ms": 92,
+    "request_id": "req_bfc8e8c42dba",
+    "user_id": null
+  },
+  {
+    "log_id": "APP0075",
+    "timestamp": "2026-06-06T19:26:49.465700",
+    "level": "ERROR",
+    "logger": "cache.manager",
+    "message": "User authentication completed",
+    "duration_ms": 476,
+    "request_id": "req_b50a09bcf572",
+    "user_id": null
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "alert_id": "ALERT0001",
+    "timestamp": "2026-06-10T21:28:49.454567",
+    "type": "info",
+    "severity": "medium",
+    "service": "cache",
+    "message": "Alert condition detected in query operation",
+    "affected_users": 85,
+    "status": "investigating"
+  },
+  {
+    "alert_id": "ALERT0002",
+    "timestamp": "2026-06-06T17:28:49.454660",
+    "type": "error",
+    "severity": "medium",
+    "service": "auth-service",
+    "message": "Alert condition detected in transaction operation",
+    "affected_users": 92,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0003",
+    "timestamp": "2026-06-08T04:28:49.454682",
+    "type": "performance",
+    "severity": "low",
+    "service": "queue",
+    "message": "Alert condition detected in query operation",
+    "affected_users": 36,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0004",
+    "timestamp": "2026-06-06T16:28:49.454694",
+    "type": "warning",
+    "severity": "high",
+    "service": "cache",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 31,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0005",
+    "timestamp": "2026-06-07T18:28:49.454706",
+    "type": "performance",
+    "severity": "high",
+    "service": "auth-service",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 78,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0006",
+    "timestamp": "2026-06-11T15:28:49.454719",
+    "type": "error",
+    "severity": "high",
+    "service": "api-gateway",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 1,
+    "status": "investigating"
+  },
+  {
+    "alert_id": "ALERT0007",
+    "timestamp": "2026-06-10T21:28:49.454730",
+    "type": "error",
+    "severity": "high",
+    "service": "cache",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 13,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0008",
+    "timestamp": "2026-06-10T15:28:49.454746",
+    "type": "security",
+    "severity": "critical",
+    "service": "database",
+    "message": "Alert condition detected in query operation",
+    "affected_users": 93,
+    "status": "investigating"
+  },
+  {
+    "alert_id": "ALERT0009",
+    "timestamp": "2026-06-07T20:28:49.454757",
+    "type": "info",
+    "severity": "critical",
+    "service": "auth-service",
+    "message": "Alert condition detected in query operation",
+    "affected_users": 12,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0010",
+    "timestamp": "2026-06-07T08:28:49.454768",
+    "type": "performance",
+    "severity": "critical",
+    "service": "auth-service",
+    "message": "Alert condition detected in transaction operation",
+    "affected_users": 70,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0011",
+    "timestamp": "2026-06-13T09:28:49.454779",
+    "type": "warning",
+    "severity": "critical",
+    "service": "auth-service",
+    "message": "Alert condition detected in query operation",
+    "affected_users": 61,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0012",
+    "timestamp": "2026-06-07T10:28:49.454791",
+    "type": "error",
+    "severity": "medium",
+    "service": "api-gateway",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 66,
+    "status": "investigating"
+  },
+  {
+    "alert_id": "ALERT0013",
+    "timestamp": "2026-06-12T20:28:49.454802",
+    "type": "info",
+    "severity": "low",
+    "service": "queue",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 90,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0014",
+    "timestamp": "2026-06-08T13:28:49.454813",
+    "type": "warning",
+    "severity": "medium",
+    "service": "auth-service",
+    "message": "Alert condition detected in query operation",
+    "affected_users": 76,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0015",
+    "timestamp": "2026-06-12T22:28:49.454824",
+    "type": "info",
+    "severity": "high",
+    "service": "auth-service",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 70,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0016",
+    "timestamp": "2026-06-07T12:28:49.454834",
+    "type": "info",
+    "severity": "medium",
+    "service": "auth-service",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 15,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0017",
+    "timestamp": "2026-06-06T14:28:49.454845",
+    "type": "security",
+    "severity": "high",
+    "service": "queue",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 15,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0018",
+    "timestamp": "2026-06-13T05:28:49.454854",
+    "type": "error",
+    "severity": "medium",
+    "service": "api-gateway",
+    "message": "Alert condition detected in query operation",
+    "affected_users": 25,
+    "status": "investigating"
+  },
+  {
+    "alert_id": "ALERT0019",
+    "timestamp": "2026-06-12T01:28:49.454873",
+    "type": "security",
+    "severity": "high",
+    "service": "queue",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 0,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0020",
+    "timestamp": "2026-06-08T19:28:49.454882",
+    "type": "info",
+    "severity": "critical",
+    "service": "auth-service",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 9,
+    "status": "investigating"
+  },
+  {
+    "alert_id": "ALERT0021",
+    "timestamp": "2026-06-10T17:28:49.454893",
+    "type": "info",
+    "severity": "high",
+    "service": "api-gateway",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 19,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0022",
+    "timestamp": "2026-06-11T16:28:49.454902",
+    "type": "warning",
+    "severity": "medium",
+    "service": "api-gateway",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 70,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0023",
+    "timestamp": "2026-06-06T14:28:49.454912",
+    "type": "performance",
+    "severity": "critical",
+    "service": "queue",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 25,
+    "status": "investigating"
+  },
+  {
+    "alert_id": "ALERT0024",
+    "timestamp": "2026-06-09T19:28:49.454962",
+    "type": "warning",
+    "severity": "critical",
+    "service": "cache",
+    "message": "Alert condition detected in query operation",
+    "affected_users": 66,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0025",
+    "timestamp": "2026-06-06T18:28:49.454972",
+    "type": "security",
+    "severity": "critical",
+    "service": "api-gateway",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 19,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0026",
+    "timestamp": "2026-06-06T17:28:49.454982",
+    "type": "performance",
+    "severity": "critical",
+    "service": "database",
+    "message": "Alert condition detected in transaction operation",
+    "affected_users": 46,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0027",
+    "timestamp": "2026-06-09T07:28:49.454992",
+    "type": "warning",
+    "severity": "high",
+    "service": "queue",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 77,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0028",
+    "timestamp": "2026-06-11T12:28:49.455002",
+    "type": "performance",
+    "severity": "medium",
+    "service": "api-gateway",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 35,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0029",
+    "timestamp": "2026-06-08T19:28:49.455012",
+    "type": "security",
+    "severity": "high",
+    "service": "database",
+    "message": "Alert condition detected in transaction operation",
+    "affected_users": 86,
+    "status": "investigating"
+  },
+  {
+    "alert_id": "ALERT0030",
+    "timestamp": "2026-06-07T13:28:49.455022",
+    "type": "info",
+    "severity": "medium",
+    "service": "cache",
+    "message": "Alert condition detected in transaction operation",
+    "affected_users": 87,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0031",
+    "timestamp": "2026-06-06T14:28:49.455032",
+    "type": "security",
+    "severity": "low",
+    "service": "api-gateway",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 96,
+    "status": "investigating"
+  },
+  {
+    "alert_id": "ALERT0032",
+    "timestamp": "2026-06-08T10:28:49.455043",
+    "type": "performance",
+    "severity": "medium",
+    "service": "database",
+    "message": "Alert condition detected in transaction operation",
+    "affected_users": 57,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0033",
+    "timestamp": "2026-06-07T12:28:49.455054",
+    "type": "warning",
+    "severity": "low",
+    "service": "database",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 20,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0034",
+    "timestamp": "2026-06-11T12:28:49.455064",
+    "type": "warning",
+    "severity": "medium",
+    "service": "queue",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 27,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0035",
+    "timestamp": "2026-06-12T11:28:49.455074",
+    "type": "security",
+    "severity": "critical",
+    "service": "database",
+    "message": "Alert condition detected in query operation",
+    "affected_users": 25,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0036",
+    "timestamp": "2026-06-08T06:28:49.455082",
+    "type": "performance",
+    "severity": "low",
+    "service": "api-gateway",
+    "message": "Alert condition detected in transaction operation",
+    "affected_users": 54,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0037",
+    "timestamp": "2026-06-12T20:28:49.455092",
+    "type": "info",
+    "severity": "medium",
+    "service": "auth-service",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 58,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0038",
+    "timestamp": "2026-06-11T05:28:49.455102",
+    "type": "error",
+    "severity": "low",
+    "service": "queue",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 49,
+    "status": "investigating"
+  },
+  {
+    "alert_id": "ALERT0039",
+    "timestamp": "2026-06-09T11:28:49.455116",
+    "type": "performance",
+    "severity": "medium",
+    "service": "queue",
+    "message": "Alert condition detected in transaction operation",
+    "affected_users": 44,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0040",
+    "timestamp": "2026-06-08T19:28:49.455126",
+    "type": "info",
+    "severity": "low",
+    "service": "database",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 18,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0041",
+    "timestamp": "2026-06-08T22:28:49.455136",
+    "type": "warning",
+    "severity": "low",
+    "service": "auth-service",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 26,
+    "status": "investigating"
+  },
+  {
+    "alert_id": "ALERT0042",
+    "timestamp": "2026-06-06T19:28:49.455146",
+    "type": "warning",
+    "severity": "critical",
+    "service": "auth-service",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 70,
+    "status": "investigating"
+  },
+  {
+    "alert_id": "ALERT0043",
+    "timestamp": "2026-06-10T17:28:49.455156",
+    "type": "info",
+    "severity": "high",
+    "service": "database",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 75,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0044",
+    "timestamp": "2026-06-08T00:28:49.455167",
+    "type": "info",
+    "severity": "low",
+    "service": "cache",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 58,
+    "status": "investigating"
+  },
+  {
+    "alert_id": "ALERT0045",
+    "timestamp": "2026-06-12T19:28:49.455177",
+    "type": "info",
+    "severity": "critical",
+    "service": "cache",
+    "message": "Alert condition detected in query operation",
+    "affected_users": 60,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0046",
+    "timestamp": "2026-06-11T04:28:49.455186",
+    "type": "security",
+    "severity": "high",
+    "service": "auth-service",
+    "message": "Alert condition detected in login operation",
+    "affected_users": 45,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0047",
+    "timestamp": "2026-06-11T21:28:49.455196",
+    "type": "security",
+    "severity": "low",
+    "service": "queue",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 54,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0048",
+    "timestamp": "2026-06-08T11:28:49.455205",
+    "type": "warning",
+    "severity": "medium",
+    "service": "auth-service",
+    "message": "Alert condition detected in transaction operation",
+    "affected_users": 71,
+    "status": "resolved"
+  },
+  {
+    "alert_id": "ALERT0049",
+    "timestamp": "2026-06-09T08:28:49.455216",
+    "type": "security",
+    "severity": "high",
+    "service": "api-gateway",
+    "message": "Alert condition detected in query operation",
+    "affected_users": 57,
+    "status": "open"
+  },
+  {
+    "alert_id": "ALERT0050",
+    "timestamp": "2026-06-13T03:28:49.455227",
+    "type": "performance",
+    "severity": "critical",
+    "service": "api-gateway",
+    "message": "Alert condition detected in backup operation",
+    "affected_users": 73,
+    "status": "investigating"
+  }
+]

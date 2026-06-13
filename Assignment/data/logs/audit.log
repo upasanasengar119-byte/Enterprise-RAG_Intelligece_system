@@ -1,0 +1,12 @@
+{"event_type": "document_ingestion", "details": {"num_documents": 21}, "timestamp": "2026-06-13T14:10:46.732989"}
+2026-06-13 14:10:46,738 - audit - INFO - Audit Log: {"event_type": "document_ingestion", "details": {"num_documents": 21}, "timestamp": "2026-06-13T14:10:46.732989"}
+{"event_type": "query", "user_id": "alice", "query_text": "What is the vacation policy?", "result_count": 0, "processing_time": 0.0003695487976074219, "success": true, "timestamp": "2026-06-13T14:12:23.053079"}
+2026-06-13 14:12:23,055 - audit - INFO - Audit Log: {"event_type": "query", "user_id": "alice", "query_text": "What is the vacation policy?", "result_count": 0, "processing_time": 0.0003695487976074219, "success": true, "timestamp": "2026-06-13T14:12:23.053079"}
+{"event_type": "query", "user_id": "alice", "query_text": "What is the vacation policy?", "result_count": 5, "processing_time": 0.10094022750854492, "success": true, "timestamp": "2026-06-13T14:13:37.298927"}
+2026-06-13 14:13:37,302 - audit - INFO - Audit Log: {"event_type": "query", "user_id": "alice", "query_text": "What is the vacation policy?", "result_count": 5, "processing_time": 0.10094022750854492, "success": true, "timestamp": "2026-06-13T14:13:37.298927"}
+{"event_type": "query", "user_id": "bob", "query_text": "What are the salary bands for employees?", "result_count": 5, "processing_time": 0.07017159461975098, "success": true, "timestamp": "2026-06-13T14:14:25.505354"}
+2026-06-13 14:14:25,508 - audit - INFO - Audit Log: {"event_type": "query", "user_id": "bob", "query_text": "What are the salary bands for employees?", "result_count": 5, "processing_time": 0.07017159461975098, "success": true, "timestamp": "2026-06-13T14:14:25.505354"}
+{"event_type": "query", "user_id": "eve", "query_text": "What is the Q4 financial report revenue?", "result_count": 4, "processing_time": 0.08496999740600586, "success": true, "timestamp": "2026-06-13T14:15:11.653747"}
+2026-06-13 14:15:11,656 - audit - INFO - Audit Log: {"event_type": "query", "user_id": "eve", "query_text": "What is the Q4 financial report revenue?", "result_count": 4, "processing_time": 0.08496999740600586, "success": true, "timestamp": "2026-06-13T14:15:11.653747"}
+{"event_type": "document_ingestion", "details": {"num_documents": 21}, "timestamp": "2026-06-13T14:29:24.841161"}
+2026-06-13 14:29:24,843 - audit - INFO - Audit Log: {"event_type": "document_ingestion", "details": {"num_documents": 21}, "timestamp": "2026-06-13T14:29:24.841161"}
